@@ -53,7 +53,7 @@ else if (ika == 100)
 
 else
 {
-System.out.println("Olet aikuinen");
+System.out.println("Olet aikuinen.");
 }
     }
 }
